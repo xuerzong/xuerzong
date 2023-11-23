@@ -1,3 +1,3 @@
 ### Hi~ 👋
 
-- I'm a Chinese🇨🇳 who passionates frontend programming.
+I'm a Chinese🇨🇳 who passionates frontend programming.
